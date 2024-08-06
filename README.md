@@ -40,6 +40,8 @@
     • Tipos Utilitários
     • Tipos Utilitários
     • Métodos de Arrays
+    • Documentação
+    • Metodologias ágeis
  # 2) O que eu já sei sobre os assuntos que serão abordados neste módulo? 
     O básico de Arrays e tipos de dados 
 
@@ -47,4 +49,7 @@
     Gostaria de aprender tudo que está na ementa do módulo 2, principalmente arrays.
 
  # 4) Minha evolução: o que aprendi sobre os assuntos que foram abordados neste módulo?
-    ... Nos próximos capítulos
+     Aprendi metodologias ágeis, melhor do que fazer projeto com metodologia cascata.            
+     Ler documentação de código, tipos utilitários, funções e alguns método de arrays, ainda sinto dificuldade em alguns métodos mas com a prática 
+     irei me desenvolver melhor.
+
